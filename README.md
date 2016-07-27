@@ -41,7 +41,7 @@ $ cd mocha-starwars-apitests
 $ npm install
 ```
 
-5) Fire up Mocha!
+5) Fire up Mocha to run the tests!
 <br>
 ```
 $ mocha
